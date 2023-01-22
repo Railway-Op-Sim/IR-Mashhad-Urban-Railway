@@ -1,0 +1,17 @@
+rly_file = "Mashhad_Metro.rly"
+ttb_files = [ "Mashhad_Urban_Railway_MoFri.ttb",]
+graphic_files = [ "Sadi_10.png", "Seyyed_Razi_10.png", "Shohada_10.png", "Sayyad_Shirazi_10.png", "Sahid_Kaveh_10.png", "Nabovvat_10.png", "Haft_e_tir_10.png", "Danesh_Amooz_10.png", "Kuhestan_Park_10.png", "Alandasht_10.png", "Mashhad_Metro_logo.png", "Eghbal_Lahuri_10.png", "Hefdah_Shahrivar_10.png", "Hasheminejad_10.png", "Reyhaneh_10.png", "Mashhad_Metro_name.png", "Airport_10.png", "text1706.png", "Exposition_10.png", "Mellat_Park_10.png", "Parvin_Etassami_10.png", "Fajr_10.png", "Tabarsi_10.png", "Kowsar_10.png", "Sadaf_10.png", "Vakilabad_10.png", "Khayyam_10.png", "Azadi_10.png", "Basij_10.png", "Velayat_10.png", "Bustan_e_10.png", "Raah_Ahan_10.png", "Imam_Khomeini_10.png", "Kouh_Sangi_10.png", "Mofatteh_10.png", "Raah_Ahan_102.png", "Taleghani_10.png", "Felestin_10.png", "Ghadir_10.png", "Ghaem_10.png",]
+minimum_required = "2.4.0"
+img_files = [ "Mashhad_Urban_Railway.bmp",]
+doc_files = [ "README.md",]
+release_date = "2023-01-22"
+version = "1.0.0"
+country_code = "IR"
+factual = true
+description = ""
+year = 2023
+display_name = "Mashhad Urban Railway"
+name = "Mashhad Urban Railway"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
