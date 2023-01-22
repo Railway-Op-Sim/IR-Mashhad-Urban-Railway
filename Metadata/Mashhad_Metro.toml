@@ -3,7 +3,7 @@ contributors = []
 country_code = "IR"
 description = "Simulation of the Mashhad Urban Railway network in Mashhad, Iran"
 display_name = "Mashhad Urban Railway"
-doc_files = ["README.md"]
+doc_files = [ "README.md",]
 factual = true
 graphic_files = [
   "Sadi_10.png",
@@ -51,6 +51,6 @@ name = "Mashhad Urban Railway"
 release_date = "2023-01-22"
 rly_file = "Mashhad_Metro.rly"
 signal_position = "right"
-ttb_files = ["Mashhad_Urban_Railway_MoFri.ttb"]
+ttb_files = [ "Mashhad_Urban_Railway_MoFri.ttb",]
 version = "1.0.0"
 year = 2023
