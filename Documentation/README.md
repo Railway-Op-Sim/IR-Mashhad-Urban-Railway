@@ -7,7 +7,7 @@ The Mashhad Urban Railway is a network of two metro lines connecting the suburbs
 
 ## Simulation
 
-The simulation is semi-fictional as data sources are limited outside of Iran itself. The route contains all network stations, however speed limits and rolling stock specificaitons have been approximated in order to match the timetable for Line 1.
+The simulation is semi-fictional as data sources are limited outside of Iran itself. The route contains all network stations, however speed limits and rolling stock specifications have been approximated in order to match the timetable for Line 1.
 
 The timetable itself is also semi-fictional as the information is only readily available within Iran. The author only had access to the eastbound timetable for Line 1.
 
